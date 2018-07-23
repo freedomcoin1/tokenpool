@@ -2,7 +2,7 @@ var INFURA_ROPSTEN_URL = 'https://ropsten.infura.io/gmXEVo5luMPUGPqg6mhy';
 var INFURA_MAINNET_URL = 'https://mainnet.infura.io/gmXEVo5luMPUGPqg6mhy';
 
 var deployedContractInfo = require('../contracts/DeployedContractInfo.json');
-var _0xBitcoinContract = require('../contracts/_0xBitcoinToken.json');
+var _0xBitcoinContract = require('../contracts/_FreeDomToken.json');
 
 var embeddedWeb3 = require('web3')
 
@@ -94,7 +94,7 @@ export default class EthHelper {
 
     getContractAddress()
     {
-       return deployedContractInfo.contracts._0xbitcointoken.blockchain_address;
+       return deployedContractInfo.contracts._FreeDom.blockchain_address;
     }
 
     getContractABI()
