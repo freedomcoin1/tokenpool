@@ -2,7 +2,7 @@ var INFURA_ROPSTEN_URL = 'https://ropsten.infura.io/gmXEVo5luMPUGPqg6mhy';
 var INFURA_MAINNET_URL = 'https://mainnet.infura.io/gmXEVo5luMPUGPqg6mhy';
 
 var deployedContractInfo = require('../contracts/DeployedContractInfo.json');
-var _0xBitcoinContract = require('../contracts/_FreeDomToken.json');
+var _0xBitcoinContract = require('../contracts/_FreeDom.json');
 
 var embeddedWeb3 = require('web3')
 
