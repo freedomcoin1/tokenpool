@@ -3,17 +3,17 @@
   "networks": {
       "mainnet": {
               "contracts": {
-                "_FreeDom": {"name":"FreeDomToken", "blockchain_address":"0xb8b296c8e8987435fb5b326d765f41290ec0b909066e853c9c70503999ef924a"}
+                "_FreeDom": {"name":"FreeDomToken", "blockchain_address":"0x8297D4EA0d2B9389681Ca7cDB527bf5787a5799D"}
               }
             },
       "staging": {
               "contracts": {
-                "_FreeDom": {"name":"FreeDomToken", "blockchain_address":"0xb8b296c8e8987435fb5b326d765f41290ec0b909066e853c9c70503999ef924a"}
+                "_FreeDom": {"name":"FreeDomToken", "blockchain_address":"0x8297D4EA0d2B9389681Ca7cDB527bf5787a5799D"}
               }
             },
       "testnet": {
               "contracts": {
-                "_FreeDom": {"name":"FreeDomToken", "blockchain_address":"0xb8b296c8e8987435fb5b326d765f41290ec0b909066e853c9c70503999ef924a"}
+                "_FreeDom": {"name":"FreeDomToken", "blockchain_address":"0x8297D4EA0d2B9389681Ca7cDB527bf5787a5799D"}
               }
             }
     }
