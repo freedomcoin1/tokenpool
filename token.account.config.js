@@ -2,12 +2,12 @@
 var accounts = {
 
   minting: {
-    address: '0xf3243bAbF74Ead828ac656877137Df705868fD66',
+    address: '0x7ca2d8E7eCc96788cBd90CE8F0De316Eb0eeA1C9',
     privateKey: '00000'
   },
 
   payment: {
-    address: '0xf3243bAbF74Ead828ac656877137Df705868fD66',
+    address: '0x7ca2d8E7eCc96788cBd90CE8F0De316Eb0eeA1C9',
     privateKey: '00000'
   }
 
